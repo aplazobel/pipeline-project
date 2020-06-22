@@ -1,4 +1,4 @@
-!(https://www.syfy.com/sites/syfy/files/styles/2280x1280_hero/public/2019/05/game_of_thrones_the_last_of_the_starks_0.jpg)
+![alt text](https://www.syfy.com/sites/syfy/files/styles/2280x1280_hero/public/2019/05/game_of_thrones_the_last_of_the_starks_0.jpg)
 
 # Pipeline Project - Game of Thrones Character Deaths
 This program takes the name of any character from the Game of Thrones fictional universe and outputs information related to the character. 
